@@ -59,7 +59,6 @@ public class BuyShopTest {
         }
     }
 
-
     public static void main(String[] args) {
         //商品价格
         Integer[] ints = {50, 42, 9, 15, 105, 63, 14, 30};
